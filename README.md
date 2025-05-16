@@ -109,6 +109,7 @@ cv2.destroyAllWindows()
 
 
 
+![WhatsApp Image 2025-05-15 at 9 18 13 PM](https://github.com/user-attachments/assets/90610db5-8b98-4f4f-be35-14045058f4b0)
 
 ### Result:
 Occupancy detection using the HOG algorithm was successfully implemented. The system was able to identify and highlight human presence in real-time video streams.
